@@ -20,7 +20,7 @@ yarn run build
 yarn run lint
 ```
 
-Deployed: starbase-woay.surge.sh
+Deployed: [starbase-woay.surge.sh](https://starbase-woay.surge.sh/)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
